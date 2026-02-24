@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshit Vinay</h1>
+<h1 align="center">Hi 👋, I'm Lakshit000</h1>
 <h3 align="center">🚀 AI | Full Stack | App Developer from India</h3>
 
 <p align="center">
